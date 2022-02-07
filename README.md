@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋🏾, I'm Laura</h1>
 <h3 align="center">A passionate frontend developer from Martinique 🏝 😎 🇫🇷</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lalabarca&label=Profile%20views&color=b2d4f9&style=flat-square" alt="lalabarca profile views" /> </p>
 
 - 🔭 I’m currently working on [my Portfolio](https://github.com/lalabarca/portfolio-pro)
 
