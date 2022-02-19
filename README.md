@@ -8,9 +8,9 @@
 
 - 🤝 I’m looking for help with [a marketplace called Karib'Hair](https://github.com/lalabarca/rails-airbnb-clone)
 
-- 👨‍💻 All of my projects are available at [https://lhdesign.herokuapp.com/](https://lhdesign.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [http://www.lhdesign.me/](http://www.lhdesign.me/)
 
-- 📫 How to reach me **laura.hardydes@gmail.com**
+- 📫 How to reach me **hello@lhdesign.me**
 
 - ⚡ Fun fact **I LOOOOOVE cats 😻 (like obsessed with them) and I'm a (sad 😔) FC Barcelona supporter 🔴🔵.**
 
