@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋🏾, I'm Laura</h1>
-<h3 align="center">A passionate frontend developer from Martinique 🏝 😎 🇫🇷</h3>
+<h3 align="center">A passionate ruby on rails developer from Martinique 🏝 😎 🇫🇷</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lalabarca&label=Profile%20views&color=b2d4f9&style=flat-square" alt="lalabarca profile views" /> </p>
 
-- 🔭 I’m currently working on [my Portfolio](https://github.com/lalabarca/portfolio-pro)
+- 🔭 I’m currently working on a 🔎 [memes search engine](https://github.com/lalabarca/memopedie) and a 🚙 [simple cars rental web app](https://github.com/lalabarca/pretakes).
 
-- 🌱 I’m currently learning **Javascript ES6, React and maybe PHP**
+- 🌱 I’m currently learning **ReactJs** and **Redux**.
 
-- 🤝 I’m looking for help with [a marketplace called Karib'Hair](https://github.com/lalabarca/rails-airbnb-clone)
+- 🤝 I’m looking for help with 🛒 [a marketplace called Karib'Hair](https://github.com/lalabarca/rails-airbnb-clone)
 
 - 👨‍💻 All of my projects are available at [http://www.lhdesign.me/](http://www.lhdesign.me/)
 
 - 📫 How to reach me **hello@lhdesign.me**
 
-- ⚡ Fun fact **I LOOOOOVE cats 😻 (like obsessed with them) and I'm a (sad 😔) FC Barcelona supporter 🔴🔵.**
+- ⚡ Fun fact **I LOOOOOVE cats 😻 (like obsessed with them) and I'm a FC Barcelona supporter 🔴🔵.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
