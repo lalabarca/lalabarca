@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **ReactJs** and **Redux**.
 
-- 🤝 I’m looking for help with a 🛒 [marketplace called Karib'Hair](https://github.com/lalabarca/rails-airbnb-clone)
+- 🤝 I’m looking for help with a 🛒 [marketplace called Karib'Hair](https://github.com/lalabarca/rails-airbnb-clone).
 
-- 👨‍💻 All of my projects are available at [http://www.lhdesign.me/](http://www.lhdesign.me/)
+- 👨‍💻 All of my projects are available on my **[portfolio](http://www.lhdesign.me/)**.
 
 - 📫 How to reach me **hello@lhdesign.me**
 
